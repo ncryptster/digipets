@@ -1,0 +1,10 @@
+.userInfo {
+	min-width: 350px;
+	max-width: 550px;
+
+	border: 1px solid black
+}
+
+.detailsContainer {
+	display: flex;
+}

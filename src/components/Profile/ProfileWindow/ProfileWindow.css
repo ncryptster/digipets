@@ -1,0 +1,14 @@
+.profileWindowBody {
+	margin: 0;
+	padding: 0;
+	display: flex;
+	flex-wrap: wrap;
+	gap: 1rem;
+	
+}
+
+
+.userlookup {
+	font-size: 18pt;
+	font-weight: 700;
+}

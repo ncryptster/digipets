@@ -1,0 +1,46 @@
+.challenges {
+		min-width: 350px;
+		width: 550px;
+		height: 350px;
+} 
+
+.challengesContainer {
+	padding: 5px;	
+	display: flex;
+}
+.challengeRow{
+	width: 100%;
+	display: flex;
+	justify-content: space-around;
+	
+}
+
+.col {
+width: 100%;
+	display: flex;
+	flex-direction: column;
+	justify-content: space-between;
+
+}
+
+
+.challenge .img {
+	width: 72px;
+	height: 102px;
+}
+
+
+
+@media only screen and (max-width: 500px) {
+	.challengeContainer {
+		margin: 2.5px;
+		height: 300px;
+	}
+	
+	
+	
+	.challenge {
+			font-size: .75rem;
+			
+		}
+	}

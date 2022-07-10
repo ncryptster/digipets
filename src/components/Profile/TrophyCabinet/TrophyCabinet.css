@@ -1,0 +1,16 @@
+.trophyCabinet  {
+	display: flex;
+	flex-direction: column;
+	width: 100%;
+}
+
+.trophy {
+	height: 75%;
+	background: url(../../../img/crapTrophy.svg);
+	background-repeat: no-repeat;
+	background-position: center;
+}
+
+.years {
+font-size: 24pt;
+}

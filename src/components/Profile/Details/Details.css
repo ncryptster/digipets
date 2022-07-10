@@ -1,0 +1,32 @@
+* {
+	margin: 0;
+	padding: 0;
+}
+.detailsCard {
+	padding: 5px;
+	display: flex;
+	flex-direction: column;
+	width: 200%;
+
+}
+.userdeets {
+	align-items: flex-start;
+	padding: 10px 0px 5px 0px;
+	
+}
+
+.eachdeet {
+	text-align: left;
+	font-weight: 700;
+}
+
+.eachdeet span {
+	font-weight: 400;
+}
+
+.dateswindow, .guild, .hobbies {
+	padding: 5px 0px 5px 0px;
+}
+
+
+
