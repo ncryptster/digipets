@@ -11,7 +11,6 @@ const SvgTomon = (props) => (
     </defs>
     <g
       style={{
-        isolation: "isolate",
       }}
     >
       <g id="Layer_2">
